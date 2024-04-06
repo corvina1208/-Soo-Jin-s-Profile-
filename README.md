@@ -14,4 +14,4 @@
 <br>
 
 ### 보유 기술
-
+![image](https://github.com/corvina1208/Soo-Jin_Profile/assets/157337929/3a93c212-72a7-45db-84c8-5617eb76d2f6)
