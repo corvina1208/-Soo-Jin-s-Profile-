@@ -24,9 +24,3 @@
 | Cell 11  | Cell 12  |
 | Cell 13  | Cell 14  |
 
-
-| Header 1 | Header 2 |
-|----------|----------|
-| "This is a multiline" | "cell with multiple lines." |
-| "Second line" | "Second line of cell 2" |
-| "Third line" | "Third line of cell 2" |
