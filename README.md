@@ -16,11 +16,17 @@
 ### 보유 기술
 | Header 1 | Header 2 |
 |----------|----------|
-| SQL   | ddd  
- dd|
+| SQL   | ddddd|
 | Cell 3   | Cell 4   |
 | Cell 5   | Cell 6   |
 | Cell 7   | Cell 8   |
 | Cell 9   | Cell 10  |
 | Cell 11  | Cell 12  |
 | Cell 13  | Cell 14  |
+
+
+| Header 1 | Header 2 |
+|----------|----------|
+| "This is a multiline" | "cell with multiple lines." |
+| "Second line" | "Second line of cell 2" |
+| "Third line" | "Third line of cell 2" |
